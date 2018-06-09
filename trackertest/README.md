@@ -1,4 +1,4 @@
-# User class # KEYLINE2
+# User class # KEYLINE2 #KEYLINE3
 This class can register and login users in a database with PDO. It can:
 
 - Register users sending confirmation email
